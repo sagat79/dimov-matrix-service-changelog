@@ -71,6 +71,10 @@ h1 {
   .matrix-live-loading-error {
     color: #ff686e;
   }
+
+  .matrix-live-loading-spinning {
+    display: inline-block;
+  }
   
   
   .matrix-live-error {
